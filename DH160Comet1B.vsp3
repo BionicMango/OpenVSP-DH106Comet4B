@@ -135,14 +135,14 @@
         <CORX Value="0.000000000000000000e+00" ID="YZBCCJSSNKF"/>
         <CORY Value="0.000000000000000000e+00" ID="MRVDQTGHZJJ"/>
         <CORZ Value="0.000000000000000000e+00" ID="HYPVZSFPVCE"/>
-        <PanX Value="-7.106118774414062500e+01" ID="GFYOSXEWVCA"/>
-        <PanY Value="3.693351745605468750e+00" ID="XDANQCQYXZA"/>
-        <RotationX Value="5.410871079351682056e+01" ID="PUXJJXPSHXV"/>
-        <RotationY Value="3.957126444707540003e+01" ID="TOLTBFXCDBB"/>
-        <RotationZ Value="4.300274465590063500e+01" ID="SBXMTUCEQNN"/>
+        <PanX Value="-7.490000152587890625e+01" ID="GFYOSXEWVCA"/>
+        <PanY Value="-1.489999961853027344e+01" ID="XDANQCQYXZA"/>
+        <RotationX Value="-0.000000000000000000e+00" ID="PUXJJXPSHXV"/>
+        <RotationY Value="0.000000000000000000e+00" ID="TOLTBFXCDBB"/>
+        <RotationZ Value="0.000000000000000000e+00" ID="SBXMTUCEQNN"/>
         <ViewportX Value="2.496000000000000000e+03" ID="AHHKEHXVKXU"/>
         <ViewportY Value="1.548000000000000000e+03" ID="CHAAVERLKDB"/>
-        <Zoom Value="5.414504930377006531e-02" ID="YVWRHCAQDNX"/>
+        <Zoom Value="9.470000118017196655e-02" ID="YVWRHCAQDNX"/>
       </AdjustView>
       <Design>
         <Working_XDDM_Type Value="0.000000000000000000e+00" ID="KMKWIBQXLUN"/>
@@ -6902,8 +6902,8 @@ void Scale(double curr_scale )
           <Last_Scale Value="1.000000000000000000e+00" ID="JKCUXLNEEED"/>
           <Origin Value="0.000000000000000000e+00" ID="ACSQUFPQNOG"/>
           <Scale Value="1.000000000000000000e+00" ID="ALUWTOEAVOD"/>
-          <X_Location Value="6.250000000000000000e+01" ID="DHCSUFHVZGH"/>
-          <X_Rel_Location Value="6.250000000000000000e+01" ID="PDKHOGDTCTS"/>
+          <X_Location Value="6.100000000000000000e+01" ID="DHCSUFHVZGH"/>
+          <X_Rel_Location Value="6.100000000000000000e+01" ID="PDKHOGDTCTS"/>
           <X_Rel_Rotation Value="0.000000000000000000e+00" ID="TSYFKSCPGTI"/>
           <X_Rotation Value="0.000000000000000000e+00" ID="FVOUWKYONQM"/>
           <Y_Location Value="-1.140000000000000036e+01" ID="OEWTDKSEQGE"/>
@@ -6961,7 +6961,7 @@ void Scale(double curr_scale )
         </WakeSettings>
         <BBox>
           <X_Len Value="3.100000000000002842e+01" ID="WCYZXTCGCSW"/>
-          <X_Min Value="4.699999999999998579e+01" ID="KPOFTQXXVMX"/>
+          <X_Min Value="4.549999999999998579e+01" ID="KPOFTQXXVMX"/>
           <Y_Len Value="2.835221635402343665e+01" ID="RKCNZDFCYNZ"/>
           <Y_Min Value="-1.417610817701171833e+01" ID="FOOCMELPTDV"/>
           <Z_Len Value="4.605976116117155961e+00" ID="OQHAHAQKVSE"/>
@@ -7222,8 +7222,8 @@ void Scale(double curr_scale )
           <Last_Scale Value="1.000000000000000000e+00" ID="ZYJPHTJPGSR"/>
           <Origin Value="0.000000000000000000e+00" ID="YSAGFOMRGLE"/>
           <Scale Value="1.000000000000000000e+00" ID="TVQINUBWAQC"/>
-          <X_Location Value="6.200000000000000000e+01" ID="JWGWBZLLEPH"/>
-          <X_Rel_Location Value="6.200000000000000000e+01" ID="EEZVHPMFYNS"/>
+          <X_Location Value="6.050000000000000000e+01" ID="JWGWBZLLEPH"/>
+          <X_Rel_Location Value="6.050000000000000000e+01" ID="EEZVHPMFYNS"/>
           <X_Rel_Rotation Value="0.000000000000000000e+00" ID="IEYHOEYMEFM"/>
           <X_Rotation Value="0.000000000000000000e+00" ID="TRLVCASCUQJ"/>
           <Y_Location Value="-6.799999999999999822e+00" ID="KSHTRVGOQGK"/>
@@ -7281,7 +7281,7 @@ void Scale(double curr_scale )
         </WakeSettings>
         <BBox>
           <X_Len Value="3.500000000000002842e+01" ID="OIDOAFDMSCE"/>
-          <X_Min Value="4.449999999999998579e+01" ID="PNRDNKSMVQV"/>
+          <X_Min Value="4.299999999999998579e+01" ID="PNRDNKSMVQV"/>
           <Y_Len Value="1.945250233518775218e+01" ID="REQLYOBBQMN"/>
           <Y_Min Value="-9.726251167593876090e+00" ID="OZTOZPNYNKE"/>
           <Z_Len Value="4.806359003314353728e+00" ID="VTZIQEMDQFB"/>
